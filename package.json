@@ -1,5 +1,5 @@
 {
-  "name": "typescript-rx-playground",
+  "name": "rxjs-topromise-alternatives",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
