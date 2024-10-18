@@ -18,4 +18,4 @@ Also to note:
           // code to execute when subject completes
         });
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/hughknaus/rxjs-observable-topromise-alternatives)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/~/github.com/hughknaus/rxjs-topromise-alternatives?file=index.ts)
