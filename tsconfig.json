@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es6", // or another target version
+        "module": "commonjs",
+        "outDir": "./dist", // output directory for compiled files
+        "strict": true
+    },
+    "include": ["**/*"] // adjust the path as needed
+}

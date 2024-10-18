@@ -2,7 +2,7 @@
 
 RxJS is deprecating .toPromise() in version 8.0. This an example of RxJS .toPromise() alternatives using:
 
-1. pure Observable/Subscription,
+1. pure Observable/Subscription, using switcMap or the Subscribe's Next callback
 2. firstValueFrom or lastValueFrom (implemnted primarily the same).
 
 Also to note:
